@@ -1,14 +1,19 @@
 Introduction
 ----------
-Python module to get the Nepse Price of the last traded date. It is easy to install and simple to use.
+Python module to get the Nepse Price rate of the last traded date. It is easy to install and simple to use.
 
-Thanks to [nepalstock](http://www.nepalstock.com) for the rate. 
+Thanks to [nepalstock](http://www.nepalstock.com) for the data. 
 
-It supports python 2.7+ and python 3 as well.
+Supported: python 2.7+, python 3
 
 Usage
 ----------
-$ python setup.py install # to install
+Install
+
+$ python setup.py install
+
+
+Example
 
 >>> from nepserate import ScrapeRate
 >>> rs = ScrapteRate()
