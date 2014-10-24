@@ -32,6 +32,11 @@ Also you can request to the data of previous date
 {'previous_close': u'396', 'amount': u'11,496,761', 'min_price': u'391', 'total_share': u'28,690', 'date': '2013-12-10', 'number_of_transaction': u'192', 'closing_price': u'400', 'difference_rs': u'4', 'ADBL': 'Agricultural Development Bank Ltd', 'max_price': u'405'}
 
 
+Reference
+----------
+- Symbol list of the Banks and Organization (https://github.com/acsudeep/nepserate/blob/master/docs/SymbolList.rst)
+
+
 Problem
 ---------
 Tweet me [@acsudeep](http://twitter.com/acsudeep)
