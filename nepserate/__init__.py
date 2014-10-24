@@ -1,1 +1,2 @@
-from .main import ScrapeRate
+from .scraperate import ScrapeRate
+from .csymbol import stockSym
