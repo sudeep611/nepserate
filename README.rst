@@ -1,6 +1,6 @@
 Introduction
 ----------
-Python module to get the Nepse Price. It is easy to install and simple to use.
+- Python module to get the Nepse Price. It is easy to install and simple to use.
 - Thanks to nepalstock.com for the data. 
 - Supported: python 2.7+, python 3
 - All the date are in AD
@@ -11,8 +11,9 @@ $ python setup.py install
 
 Dependencies
 ----------
-BeautifulSoup4
-requests
+
+* BeautifulSoup4
+* requests
 
 
 Usage
