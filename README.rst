@@ -7,8 +7,12 @@ Introduction
 - All the date are in AD
 
 To install
-$ python setup.py install
 
+   $ python setup.py install
+
+Or directly install via pip
+
+   $ sudo pip install nepserate
 
 Dependencies
 ----------
